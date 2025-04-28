@@ -1,11 +1,11 @@
-version: "3.0.0-alpha.83"
+version: "3.0.0-alpha.74"
 image: ghcr.io/t0bst4r/home-assistant-matter-hub-addon
 slug: hamh
 name: Home-Assistant-Matter-Hub
 description: Publish your entities from Home Assistant to any Matter-compatible controller like Alexa, Apple Home or Google Home.
-url: https://github.com/t0bst4r/home-assistant-matter-hub
+url: https://github.com/mac8005/home-assistant-matter-hub
 panel_icon: mdi:hub
-panel_title: Matter Hub
+panel_title: mac
 homeassistant: 2024.1.0
 homeassistant_api: true
 host_network: true
